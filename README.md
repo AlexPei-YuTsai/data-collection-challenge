@@ -65,3 +65,4 @@ What ultimately makes your project stand out depends on what you look for and ho
 
 ## FINAL NOTES
 > Project completed on July 6, 2023
+- I hate how code stops working the moment the browser updates itself. Please update your drivers when necessary.
